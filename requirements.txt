@@ -1,0 +1,6 @@
+pycurl==7.19.3.1
+django
+djangorestframework
+markdown
+django-filter
+gdal
